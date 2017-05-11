@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HH</string>
+    <string name="simple_ime">HHKeyboard</string>
+    <string name="subtype_en_US">Differently Abled</string>
+    <string name="title_activity_tts">TTSActivity</string>
+</resources>
